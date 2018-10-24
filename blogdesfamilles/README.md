@@ -1,24 +1,4 @@
-# README
+# Blog des Familles
+# Database Only
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Nous allons te demander de faire une application de blog. C'est un super blog où ses utilisateurs pourront créer des articles, les commenter, leur attribuer une catégorie. Puis, étant donné que l'on est hype, les utilisateurs pourront liker les articles.
